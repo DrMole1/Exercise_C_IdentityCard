@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1549298306 source:c:\users\basti\desktop\algo\c\carte_identite\sauvegarde.c
+	"sauvegarde.h"
+
+1549298283 source:c:\users\basti\desktop\algo\c\carte_identite\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sauvegarde.h"
+	"carte.h"
+
+1549297104 c:\users\basti\desktop\algo\c\carte_identite\sauvegarde.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"carte.h"
+
+1549293845 c:\users\basti\desktop\algo\c\carte_identite\carte.h
+	<stdio.h>
+	<stdlib.h>
+
+1549294032 source:c:\users\basti\desktop\algo\c\carte_identite\carte.c
+	"carte.h"
+
+1549360144 source:c:\users\basti\desktop\algo\c\carte_identitev2\carte.c
+	"carte.h"
+
+1549358156 c:\users\basti\desktop\algo\c\carte_identitev2\carte.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1549360233 source:c:\users\basti\desktop\algo\c\carte_identitev2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sauvegarde.h"
+	"carte.h"
+
+1549360233 c:\users\basti\desktop\algo\c\carte_identitev2\sauvegarde.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"carte.h"
+
+1549360325 source:c:\users\basti\desktop\algo\c\carte_identitev2\sauvegarde.c
+	"sauvegarde.h"
+
